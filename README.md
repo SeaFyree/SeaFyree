@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeaFyree
 - 👀 I’m interested in all things Tech related
-- 🌱 I’m currently learning at SNHU to achieve a BS in CS with a focus in SOftware Engineering and IT Security
+- 🌱 I’m currently learning at SNHU to achieve a BS in CS with a focus in Software Engineering and IT Security
 - 💞️ I’m looking to collaborate on not too much at the moment, Still finding my place in the tech world
 - 📫 How to reach me through Discord: @seafyre9701 or through email: andrewseafyre@gmail.com
 - 😄 Pronouns: He/Him
